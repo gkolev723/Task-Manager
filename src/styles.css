@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bulma/bulma.sass";
+
+html {
+  background: linear-gradient(to right top, lawngreen, green);
+}
+
+html, body {
+  height: 100%;
+}
